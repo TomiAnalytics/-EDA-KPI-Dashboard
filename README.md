@@ -22,8 +22,11 @@ Python (Pandas, Matplotlib, Seaborn), Power BI, Excel, Jupyter Notebook
 - Adjust inventory for top-selling products  
 - Focus marketing campaigns on low-engagement customer segments
 
-## Screenshots
-(<img width="764" height="427" alt="KPI Dashboard" src="https://github.com/user-attachments/assets/2723d278-0496-42c2-9d2a-07747dc0304a" />
-path-to-image)
 # -EDA-KPI-Dashboard
 Exploratory Data Analysis &amp; KPI Dashboard
+├─ /notebooks
+│    └─ EDA_KPI_Analysis.ipynb[Ecommerce_Sales_EDA_and_KPI_Analysis.ipynb](https://github.com/user-attachments/files/23812745/Ecommerce_Sales_EDA_and_KPI_Analysis.ipynb)
+
+├─ /pbix
+│    └─ KPI_Dashboard.pbix<img width="764" height="427" alt="KPI Dashboard" src="https://github.com/user-attachments/assets/91fd5e28-776d-46f1-a6e1-db16d9f3543a" />
+
