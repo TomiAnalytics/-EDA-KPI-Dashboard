@@ -24,6 +24,10 @@ Python (Pandas, Matplotlib, Seaborn), Power BI, Excel, Jupyter Notebook
 
 # -EDA-KPI-Dashboard
 Exploratory Data Analysis &amp; KPI Dashboard
+
+├─ /data       → Datasets [Retail_Sales_NG_2023_2025.csv](https://github.com/user-attachments/files/24025229/Retail_Sales_NG_2023_2025.csv)
+
+
 ├─ /notebooks
 │    └─ EDA_KPI_Analysis.ipynb[Ecommerce_Sales_EDA_and_KPI_Analysis.ipynb](https://github.com/user-attachments/files/23812745/Ecommerce_Sales_EDA_and_KPI_Analysis.ipynb)
 
